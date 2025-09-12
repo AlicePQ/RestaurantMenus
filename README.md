@@ -1,5 +1,4 @@
-# RestaurantMenus - Abstract Factory Application 
-# 🍽️ Restaurante con Patrón Abstract Factory
+# 🍽️ RestaurantMenus - Aplicación patrón: Abstract Factory 
 
 Este proyecto es un ejemplo académico en **Java** que implementa el **patrón de diseño Abstract Factory** para simular el sistema de pedidos de un restaurante.  
 
